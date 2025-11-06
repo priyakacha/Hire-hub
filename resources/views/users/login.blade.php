@@ -50,8 +50,8 @@
 
             <div class="mt-6 text-center">
                 <p class="text-sm text-gray-500">
-                    Already have an account?
-                    <a href="/login" class="text-indigo-600 hover:text-indigo-800 font-medium">Login</a>
+                    Don't have an account?
+                    <a href="/register" class="text-indigo-600 hover:text-indigo-800 font-medium">Register</a>
                 </p>
             </div>
 
