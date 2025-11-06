@@ -137,7 +137,7 @@
                     Update
                 </button>
 
-                <a href="/" class="text-black ml-4"> Back </a>
+                <a href="/" class="text-black ml-4"> Cancle </a>
             </div>
         </form>
     </x-card>

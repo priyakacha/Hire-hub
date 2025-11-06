@@ -31,7 +31,7 @@
                     class="mt-1 block w-full border border-gray-300 rounded-lg px-3
                                            py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500
                                           focus:border-indigo-500 sm:text-sm"
-                    name="title" placeholder="Example: Senior Laravel Developer" value="{{ old('title') }}" />
+                    name="title" placeholder="Example: Senior Developer" value="{{ old('title') }}" />
 
                 @error('title')
                     <p class="text-red-500 text-xs mt-1">{{ $message }}</p>
@@ -133,7 +133,7 @@
                     Create
                 </button>
 
-                <a href="/" class="text-black ml-4"> Back </a>
+                <a href="/" class="text-black ml-4"> Cancle </a>
             </div>
         </form>
     </x-card>
